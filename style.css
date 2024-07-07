@@ -33,6 +33,7 @@
 
 
 .graphy{
+    background-color: #f9f9f9;
     Height:229px;
    display: grid;
    grid-auto-flow: column; 
@@ -54,33 +55,34 @@
     font-size: 40px;
  }
 
- .information{
+ #information{
     display: grid;
     display: flex;
     margin-top: 150px;
  }
 
- .info{
+ #info{
     font-size: 40px;
   margin-top: 200px;
   margin-left: 100px;
 }
 
-.textgraphy{
+#textgraphy{
+    width: 735px;
+    height: 161px;
+    top: 1003px;
+    left: 77px;
     font-size: 24px;
-  margin-top: 25px;
-  margin-left: 100px;
-
-}
-
-.img{
-    margin-left: 100px;
-    margin-bottom: 100px;
+   margin-top: 25px;
+   margin-left: 100px;
 }
 
 #img-1{
-    border-radius: 30px;
-
+    width: 510px;
+  height: 605px;
+  border-radius: 30px;
+  margin-left: 100px;
+  margin-bottom: 100px;
 }
 
 
